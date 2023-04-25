@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp\\VirtualLibraryApp\\VirtualLibraryApp.csproj": {}
+    "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp\\VirtualLibraryApp\\VirtualLibraryApp.csproj": {
+    "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp\\VirtualLibraryApp\\VirtualLibraryApp.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp.csproj",
         "projectName": "VirtualLibraryApp",
-        "projectPath": "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp\\VirtualLibraryApp\\VirtualLibraryApp.csproj",
+        "projectPath": "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\VirtualLibraryApp\\VirtualLibraryApp\\obj\\",
+        "outputPath": "C:\\Users\\maria\\Documents\\Github\\.NET-Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
